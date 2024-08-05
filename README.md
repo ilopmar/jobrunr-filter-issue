@@ -1,6 +1,6 @@
 # JobRunr issue
 
-This is a test project to reproduce an issue with JobRunr filters.
+This is a test project to reproduce an issue with JobRunr filters: https://github.com/jobrunr/jobrunr/issues/1081
 
 Steps to reproduce the issue:
 - Send the following request to trigger the job: `curl localhost:8080/test`
